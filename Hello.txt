@@ -1,9 +1,6 @@
-Hello World
-This is my demo repository
+Hello World!
+This is my demo repository.
 
-Also, I study AWS
+Also, I study AWS.
 
-New line
-
-One more new line
------------------
+It's one of the best technologies.
