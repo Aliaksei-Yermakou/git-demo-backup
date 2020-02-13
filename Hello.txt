@@ -6,3 +6,5 @@ Also, I study AWS.
 It's one of the best technologies.
 
 Aurora RDS is the coolest database.
+
+Together with PostgreSQL they can do a lot.
